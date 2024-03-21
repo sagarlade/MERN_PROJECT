@@ -9,11 +9,6 @@ Webpack (for bundling frontend assets)
 Nodemon (for automatic server restarts during development)
 ESLint and Prettier (for code linting and formatting)
 
-Installation
-Clone the repository:
-git clone https://github.com/your-username/restaurant-reservation.git
-
-
 
 Install dependencies for both frontend and backend:
 
