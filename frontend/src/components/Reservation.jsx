@@ -18,7 +18,7 @@ const Reservation = () => {
     e.preventDefault();
     try {
       const { data } = await axios.post(
-        "http://localhost:8080/reservation/send",
+        "restaurant-reservation-flame.vercel.app",
         { firstName, lastName, email, phone, date, time },
         {
           headers: {
